@@ -9,7 +9,7 @@ HW5
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Test Suite
-![Test Suite]![Test Suite](https://img.shields.io/github/actions/workflow/status/CSC510-SE-SAITEJA-MADHUMITHA-SHRUTI/git-homework/test.yml.svg?branch=main)
+![Test Suite](https://img.shields.io/github/actions/workflow/status/CSC510-SE-SAITEJA-MADHUMITHA-SHRUTI/git-homework/test.yml.svg?branch=main)
 
 
 # Code Coverage
